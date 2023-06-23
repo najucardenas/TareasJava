@@ -37,9 +37,32 @@ public class pincipal {
 		//fin area de un circulo con valores de punto flotante
 		
 		// Inica promedio de numeros de punto flotante
-		Promedio pro=new Promedio();
+		//Promedio pro=new Promedio();
 		
 		// termina promedio de numeros de punto flotante
+		
+		
+		//Inicia  caluclar area y perimetro
+		
+		/*Area area=new Area();
+		
+		Perimetro perimetro=new Perimetro();*/
+		
+		
+		
+		//fin  caluclar area y perimetro
+		
+		
+		//Inica calcular salario
+		
+		
+		Nomina nomina=new Nomina();
+		nomina.pedirDatos();
+		
+		
+		//Fincalcular salario
+		
+		
 	}
 
 }
